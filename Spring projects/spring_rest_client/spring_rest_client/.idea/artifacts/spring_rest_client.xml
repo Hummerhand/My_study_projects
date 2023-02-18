@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_rest_client">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_rest_client</output-path>
+    <root id="archive" name="spring_rest_client.war" />
+  </artifact>
+</component>
